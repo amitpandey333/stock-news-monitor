@@ -1,4 +1,4 @@
-# Stock News Monitoring System
+<img width="2551" height="2268" alt="image" src="https://github.com/user-attachments/assets/ac315918-c5ff-4d51-84f1-3e0135579f82" /># Stock News Monitoring System
 
 Python project: tracks a stock watchlist, fetches prices (Alpha Vantage) and news (NewsAPI),
 classifies each headline as Positive / Negative / Neutral, stores everything in SQLite,
@@ -46,3 +46,6 @@ python -m unittest test_basic -v   # self-tests
 - Never commit your `.env` file or share API keys.
 - Sentiment is rule-based, so it can misread sarcasm. Mention this in your limitations.
 - For Indian stocks, use Alpha Vantage symbols such as `RELIANCE.BSE`.
+<img width="2551" height="2268" alt="image" src="https://github.com/user-attachments/assets/03dbb19a-8cea-4ed1-8d51-e55cea875064" />
+
+
