@@ -47,3 +47,4 @@ python -m unittest test_basic -v   # self-tests
 - Never commit your `.env` file or share API keys.
 - Sentiment is rule-based, so it can misread sarcasm. Mention this in your limitations.
 - For Indian stocks, use Alpha Vantage symbols such as `RELIANCE.BSE`.
+- Add Delete.
