@@ -1,4 +1,4 @@
-<img width="2551" height="2268" alt="image" src="https://github.com/user-attachments/assets/ac315918-c5ff-4d51-84f1-3e0135579f82" /># Stock News Monitoring System
+# Stock News Monitoring System
 
 Python project: tracks a stock watchlist, fetches prices (Alpha Vantage) and news (NewsAPI),
 classifies each headline as Positive / Negative / Neutral, stores everything in SQLite,
