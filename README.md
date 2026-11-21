@@ -17,7 +17,7 @@ python main.py              # command-line menu
 streamlit run dashboard.py  # dashboard in the browser
 python -m unittest test_basic -v   # self-tests
 ```
-
+## Free API keys
 - Alpha Vantage: https://www.alphavantage.co/support/#api-key (free plan: about 25 requests/day, so keep the watchlist small)
 - NewsAPI: https://newsapi.org/register (free developer plan)
 - Twilio (optional): https://www.twilio.com/try-twilio. Trial accounts can only SMS verified numbers.
