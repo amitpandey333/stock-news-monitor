@@ -1,0 +1,5 @@
+requests
+vaderSentiment
+streamlit
+pandas
+twilio

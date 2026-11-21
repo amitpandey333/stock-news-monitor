@@ -1,0 +1,4 @@
+.env
+stock_news.db
+__pycache__/
+*.pyc
