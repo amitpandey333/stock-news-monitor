@@ -52,7 +52,7 @@ def menu():
             sym = ask_symbol()
             name = next((w["name"] for w in db.get_watchlist() if w["symbol"] == sym), sym)
             show_result(check_stock(sym, name, force_news=True))
-                elif choice == "5":
+        elif choice == "5":
             if not db.get_watchlist():
                 print("Watchlist is empty. Choose 1 to add a stock first.")
             for r in check_all():
