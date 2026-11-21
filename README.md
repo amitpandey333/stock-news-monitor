@@ -47,5 +47,6 @@ python -m unittest test_basic -v   # self-tests
 - Sentiment is rule-based, so it can misread sarcasm. Mention this in your limitations.
 - For Indian stocks, use Alpha Vantage symbols such as `RELIANCE.BSE`.
 <img width="2551" height="2268" alt="image" src="https://github.com/user-attachments/assets/03dbb19a-8cea-4ed1-8d51-e55cea875064" />
+....
 
 
